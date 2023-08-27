@@ -11,14 +11,17 @@
 
 <h2>🎓 Education & Certifications:</h2>
 
-- <b>CompTIA Security+</b>
-- <b>BS in Cybersecurity Analytics & Operations @ Penn State (in progress)</b>
+- [CompTIA Security+ SY0-601](https://www.comptia.org/certifications/security)
+- [CodePath Cybersecurity 101](https://www.codepath.org/courses/cybersecurity)
+- [BS in Cybersecurity Analytics & Operations @ Penn State (in progress)](https://bulletins.psu.edu/undergraduate/colleges/information-sciences-technology/cybersecurity-analytics-operations-bs/)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 External Links:</h2>
 
-[<img align="left" alt="PhillipHouts | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="PhillipHouts | LinkedIn" width="22px" src="https://static.licdn.com/sc/h/akt4ae504epesldzj74dzred8" />][linkedin]
+[<img align="left" alt="AtlasWhiffed | TryHackMe" width="22px" src="https://assets.tryhackme.com/img/favicon.png" />][tryhackme]
 
 [linkedin]: https://www.linkedin.com/in/phillip-houts-infosec/
+[tryhackme]: https://tryhackme.com/p/AtlasWhiffed
 
 <!--
 <h2>👨‍💻 Header Template</h2>
